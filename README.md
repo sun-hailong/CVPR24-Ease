@@ -6,7 +6,7 @@
   <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FCVPR24-Ease&count_bg=%23FFA500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"></a>
 </p>
 
-🎉The code repository for "Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning"  [[paper]](https://arxiv.org/abs/)(CVPR24) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
+🎉The code repository for "Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning"  [[paper]](https://arxiv.org/abs/2403.12030)(CVPR24) in PyTorch. If you use any content of this repo for your work, please cite the following bib entry:
 
 ```
   @inproceedings{zhou2024expandable,
