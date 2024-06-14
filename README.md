@@ -13,6 +13,7 @@
     title={Expandable Subspace Ensemble for Pre-Trained Model-Based Class-Incremental Learning},
     author={Zhou, Da-Wei and Sun, Hai-Long and Ye, Han-Jia and Zhan, De-Chuan},
     booktitle={CVPR},
+    pages={23554--23564},
     year={2024}
   }
 ```
