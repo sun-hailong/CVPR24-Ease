@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/Ease-v1.0-darkcyan"></a>
+  <a href='https://arxiv.org/abs/2403.12030'><img src='https://img.shields.io/badge/Arxiv-2403.12030-b31b1b.svg?logo=arXiv'></a>
   <a href=""><img src="https://img.shields.io/github/stars/sun-hailong/CVPR24-Ease?color=4fb5ee"></a>
   <a href=""><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsun-hailong%2FCVPR24-Ease&count_bg=%23FFA500&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"></a>
 </p>
