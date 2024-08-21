@@ -40,6 +40,8 @@ We conducted experiments on seven benchmark datasets to verify the competitive p
 1. [torch 2.0.1](https://github.com/pytorch/pytorch)
 2. [torchvision 0.15.2](https://github.com/pytorch/vision)
 3. [timm 0.6.12](https://github.com/huggingface/pytorch-image-models)
+4. [easydict](https://github.com/makinacorpus/easydict)
+
 
 ### 🔎 Dataset
 We provide the processed datasets as follows:
